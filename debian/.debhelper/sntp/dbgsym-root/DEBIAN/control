@@ -1,0 +1,12 @@
+Package: sntp-dbgsym
+Source: ntp
+Version: 1:4.2.8p15-1vyatta2
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Vyatta Package Maintainers <DL-vyatta-help@att.com>
+Installed-Size: 261
+Depends: sntp (= 1:4.2.8p15-1vyatta2)
+Section: debug
+Priority: optional
+Description: debug symbols for sntp
+Build-Ids: df88a40babda9875e4bf58ed09804912c171e4bf

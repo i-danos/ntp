@@ -1,0 +1,12 @@
+Package: ntpdate-dbgsym
+Source: ntp
+Version: 1:4.2.8p15-1vyatta2
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Vyatta Package Maintainers <DL-vyatta-help@att.com>
+Installed-Size: 221
+Depends: ntpdate (= 1:4.2.8p15-1vyatta2)
+Section: debug
+Priority: optional
+Description: debug symbols for ntpdate
+Build-Ids: 1d094c7fb4405bbdec7faa107c504f888db7e539

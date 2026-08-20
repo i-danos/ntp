@@ -1,0 +1,8 @@
+ntp-dbgsym_4.2.8p15-1vyatta2_amd64.deb debug optional automatic=yes
+ntp-doc_4.2.8p15-1vyatta2_all.deb doc optional
+ntp_4.2.8p15-1vyatta2_amd64.buildinfo net optional
+ntp_4.2.8p15-1vyatta2_amd64.deb net optional
+ntpdate-dbgsym_4.2.8p15-1vyatta2_amd64.deb debug optional automatic=yes
+ntpdate_4.2.8p15-1vyatta2_amd64.deb net optional
+sntp-dbgsym_4.2.8p15-1vyatta2_amd64.deb debug optional automatic=yes
+sntp_4.2.8p15-1vyatta2_amd64.deb net optional

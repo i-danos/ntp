@@ -19,7 +19,7 @@ ifeq (hurd, $(DEB_HOST_ARCH_OS))
 endif
 	# This is necessary for the changes in sntp-kod-location.patch to
 	# take effect
-	rm sntp/sntp-opts.c
+	rm -f sntp/sntp-opts.c
 	./bootstrap
 
 	dh_auto_configure -- CFLAGS='$(CFLAGS)' CPPFLAGS='$(CPPFLAGS)' LDFLAGS='$(LDFLAGS)' \

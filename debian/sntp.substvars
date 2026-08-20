@@ -1,0 +1,3 @@
+shlibs:Depends=libc6 (>= 2.38), libevent-core-2.1-7t64 (>= 2.1.8-stable), libevent-pthreads-2.1-7t64 (>= 2.1.8-stable), libopts25 (>= 1:5.18.16), libssl3t64 (>= 3.0.0)
+misc:Depends=
+misc:Pre-Depends=
